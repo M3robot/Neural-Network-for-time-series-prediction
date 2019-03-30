@@ -1,0 +1,2 @@
+,Batch,Test Size,Epochs,Decay,Learning Rate,Patience,Predict Days,LSTM Neurons,Dense 1 Neurons,Dense 2 Neurons,Dense 3 Neurons,Activation Function,CSV
+0,0.125,0.2,750,1e-05,0.0001,25,30,100,32,32,16,relu,FB
